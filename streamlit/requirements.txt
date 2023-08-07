@@ -1,0 +1,12 @@
+streamlit
+streamlit_option_menu
+numpy
+pandas
+wordcloud
+plotly
+altair
+matplotlib
+matplotlib_venn
+regex
+nltk
+scikit-learn
