@@ -1,5 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3 - Reddit API Scraping and Binary Classification Problem
 
+streamlit demo page: https://are-you-keto-paleo.streamlit.app/ 
+
 ### Problem Statement
 
 We are members of a data science team working for a specialised diet food company.
